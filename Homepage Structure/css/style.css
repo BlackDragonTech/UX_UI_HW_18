@@ -1,0 +1,75 @@
+
+.navigation {
+  font-family: 'Open Sans', sans-serif;
+}
+.inline-block {
+  display: inline-block;
+  vertical-align: top; 
+  font-size: x-large;
+}
+
+.logo {
+  width: 23%;
+  padding: 1%;
+  text-align: center;
+}
+
+nav {
+width: 73%;
+padding: 1%;
+text-align: right;
+font-family: 'Open Sans', sans-serif;
+}
+
+ul {
+  width: 50%;
+  margin-left: auto;
+}
+
+.heroImg {
+  height: 1800px;
+  width: 1000px;
+  padding: 50px;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+  font-size: xx-large;
+  position: relative;
+ margin: 0 auto;
+  
+}
+
+.content {
+  width: 800px;
+  margin: 0 auto;
+  margin-bottom: 0 auto;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.button {
+  border-radius: 12px;
+  padding: 15px 32px;
+  font-size: 25px;
+  background-color: snow;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  margin: 20px;
+}
+
+footer {
+  background-color: #373738;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
+#footernav {
+  display: inline-block;
+  vertical-align: top;
+  text-align: right;
+}
+
+#info {
+  font-size: medium;
+}
+
