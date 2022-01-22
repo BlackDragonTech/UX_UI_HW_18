@@ -24,6 +24,11 @@ font-family: 'Open Sans', sans-serif;
 ul {
   width: 50%;
   margin-left: auto;
+  list-style-type: none;
+}
+
+li {
+  list-style-type: none;
 }
 
 .heroImg {
